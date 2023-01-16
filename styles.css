@@ -1,0 +1,23 @@
+
+[class^=flaticon-]:before,
+[class*=" flaticon-"]:before,
+[class^=flaticon-]:after,
+[class*=" flaticon-"]:after {
+    font-size: inherit;
+    margin-left: 0;
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: .5s;
+}
+
+.two-dogs-img {
+    background-color: bloe;
+    background-image: url(img/about.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
